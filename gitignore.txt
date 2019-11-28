@@ -18,4 +18,4 @@
 .nfs*
 
 # Personnal rules - Marc-Andre
-_notes*
+/_notes
