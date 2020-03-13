@@ -3,4 +3,7 @@
 <file name="Step03.png" server="ftp.foursplines.com/public_html/" local="132282461639323218" remote="132194284800000000" Dst="2" />
 <file name="Step02.png" server="ftp.foursplines.com/public_html/" local="132282461601677119" remote="132194284800000000" Dst="2" />
 <file name="Step01.png" server="ftp.foursplines.com/public_html/" local="132282461648781800" remote="132195016200000000" Dst="2" />
+<file name="Step02.png" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461601677119" remote="132282444600000000" Dst="2" />
+<file name="Step01.png" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461648781800" remote="132282444600000000" Dst="2" />
+<file name="Step03.png" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461639323218" remote="132282444600000000" Dst="2" />
 </dwsync>

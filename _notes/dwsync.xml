@@ -6,4 +6,8 @@
 <file name="index.html" server="ftp.foursplines.com/public_html/" local="132282465394473471" remote="132282430200000000" Dst="2" />
 <file name="package.json" server="ftp.foursplines.com/public_html/" local="131988575626810594" remote="131430960000000000" Dst="2" />
 <file name="index-fr.html" server="ftp.foursplines.com/public_html/" local="132282454562647337" remote="132282418800000000" Dst="2" />
+<file name="gulpfile.js" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461733712424" remote="132282444600000000" Dst="2" />
+<file name="index-fr.html" server="ftp.foursplines.com/dev.foursplines.com/" local="132285175647697134" remote="132285139200000000" Dst="2" />
+<file name="package.json" server="ftp.foursplines.com/dev.foursplines.com/" local="131988575626810594" remote="132282444600000000" Dst="2" />
+<file name="index.html" server="ftp.foursplines.com/dev.foursplines.com/" local="132285175316238028" remote="132285139200000000" Dst="2" />
 </dwsync>

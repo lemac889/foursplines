@@ -59,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .bg-darkest-gray {
     background-color: $gray-darker;
+	color: white;
 }
 
 // Restyled Primary Buttons
@@ -539,6 +540,7 @@ section#contact {
     background-image: url('../img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+	color:white;
     .section-heading {
         color: white;
     }
@@ -735,4 +737,19 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: $theme-primary;
+}
+.p-5{
+	padding: $spacer * 3;
+}
+.pt-3{
+	padding-top: $spacer;
+}
+.pb-3{
+	padding-bottom: $spacer;	
+}
+.text-justify{
+	hyphens: auto;
+}
+.hyphen-manuel{
+	hyphens: manual;
 }

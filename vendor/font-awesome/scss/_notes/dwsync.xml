@@ -11,4 +11,14 @@
 <file name="_fixed-width.scss" server="ftp.foursplines.com/public_html/" local="131988575655351128" remote="131430960000000000" Dst="2" />
 <file name="_mixins.scss" server="ftp.foursplines.com/public_html/" local="132282462045980322" remote="132194284800000000" Dst="2" />
 <file name="font-awesome.scss" server="ftp.foursplines.com/public_html/" local="132282461729888356" remote="132194284800000000" Dst="2" />
+<file name="_fixed-width.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="131988575655351128" remote="132282445800000000" Dst="2" />
+<file name="_core.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461724427981" remote="132282445800000000" Dst="2" />
+<file name="font-awesome.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461729888356" remote="132282445800000000" Dst="2" />
+<file name="_stacked.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462045069437" remote="132282445800000000" Dst="2" />
+<file name="_icons.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461736695622" remote="132282445800000000" Dst="2" />
+<file name="_larger.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462047541677" remote="132282445800000000" Dst="2" />
+<file name="_list.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="131988575584296059" remote="132282445800000000" Dst="2" />
+<file name="_variables.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461737666593" remote="132282445800000000" Dst="2" />
+<file name="_path.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="131988575587596799" remote="132282445800000000" Dst="2" />
+<file name="_mixins.scss" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462045980322" remote="132282445800000000" Dst="2" />
 </dwsync>

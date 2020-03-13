@@ -6,4 +6,10 @@
 <file name="4.jpg" server="ftp.foursplines.com/public_html/" local="131988575419774180" remote="131430960000000000" Dst="2" />
 <file name="3.jpg" server="ftp.foursplines.com/public_html/" local="132282461997640191" remote="132194284800000000" Dst="2" />
 <file name="5.jpg" server="ftp.foursplines.com/public_html/" local="132282461996789264" remote="132194284800000000" Dst="2" />
+<file name="0.jpg" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461968221757" remote="132282444600000000" Dst="2" />
+<file name="1.jpg" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461974957875" remote="132282444600000000" Dst="2" />
+<file name="4.jpg" server="ftp.foursplines.com/dev.foursplines.com/" local="131988575419774180" remote="132282444600000000" Dst="2" />
+<file name="5.jpg" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461996789264" remote="132282444600000000" Dst="2" />
+<file name="3.jpg" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461997640191" remote="132282444600000000" Dst="2" />
+<file name="2.jpg" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461981564640" remote="132282445200000000" Dst="2" />
 </dwsync>

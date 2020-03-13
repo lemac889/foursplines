@@ -13,4 +13,17 @@
 <file name="mixins.less" server="ftp.foursplines.com/public_html/" local="132282462043477735" remote="132194284800000000" Dst="2" />
 <file name="list.less" server="ftp.foursplines.com/public_html/" local="132282461732341176" remote="132194284800000000" Dst="2" />
 <file name="variables.less" server="ftp.foursplines.com/public_html/" local="132282461720709052" remote="132194284800000000" Dst="2" />
+<file name="core.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462040454925" remote="132282445800000000" Dst="2" />
+<file name="animated.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462044658848" remote="132282445800000000" Dst="2" />
+<file name="bordered-pulled.less" server="ftp.foursplines.com/dev.foursplines.com/" local="131988575561695843" remote="132282445800000000" Dst="2" />
+<file name="icons.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461732421166" remote="132282445800000000" Dst="2" />
+<file name="fixed-width.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462044638900" remote="132282445800000000" Dst="2" />
+<file name="mixins.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462043477735" remote="132282445800000000" Dst="2" />
+<file name="path.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461717746266" remote="132282445800000000" Dst="2" />
+<file name="larger.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461717035762" remote="132282445800000000" Dst="2" />
+<file name="font-awesome.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282462041936314" remote="132282445800000000" Dst="2" />
+<file name="rotated-flipped.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461720348768" remote="132282445800000000" Dst="2" />
+<file name="stacked.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461720418786" remote="132282445800000000" Dst="2" />
+<file name="list.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461732341176" remote="132282445800000000" Dst="2" />
+<file name="variables.less" server="ftp.foursplines.com/dev.foursplines.com/" local="132282461720709052" remote="132282445800000000" Dst="2" />
 </dwsync>
